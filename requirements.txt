@@ -1,0 +1,4 @@
+kvsqlite
+telebot
+pyTelegramBotAPI
+requests
